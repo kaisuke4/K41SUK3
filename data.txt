@@ -2,7 +2,7 @@
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "K4ISUK3 MODS [NO SKINHACKS",
+      "name": "K4ISUK3 MODS [NO SKINHACKS]",
       "status": "ONLINE",
       "lib_name": "libkaisuke.so",
       "download_url": "http://panelofdcibx4am911.x10.mx/DCIBX4AM/libkaisuke.so",
