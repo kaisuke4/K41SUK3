@@ -5,14 +5,14 @@
       "name": "K4ISUK3 MODS [NO SKINHACKS]",
       "status": "ONLINE",
       "lib_name": "libkaisuke.so",
-      "download_url": "http://panelofdcibx4am911.x10.mx/DCIBX4AM/libkaisuke.so",
+      "download_url": "https://panelofdcibx4am911.x10.mx/DCIBX4AM/libkaisuke.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
       "name": "K4ISUK3 MODS [WITH SKINHACKS]",
       "status": "MAINTENANCE",
       "lib_name": "libkai.so",
-      "download_url": "http://panelofdcibx4am911.x10.mx/DCIBX4AM/libkai.so",
+      "download_url": "https://panelofdcibx4am911.x10.mx/DCIBX4AM/libkai.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
